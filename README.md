@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 😄 Pronouns: He/Him/SoBa
 
 📫 How to reach me:
-- Linked In: [/in/sourabhbagrecha](https://www.linkedin.com/in/sourabhbagrecha/)
+- LinkedIn: [/in/sourabhbagrecha](https://www.linkedin.com/in/sourabhbagrecha/)
 - Medium: [@sourabhbagrecha](https://medium.com/@sourabhbagrecha/)
 - Twitter: [@sourabhbagrecha](https://twitter.com/@sourabhbagrecha/)
