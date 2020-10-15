@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 📫 How to reach me:
 - Linked In: [/in/sourabhbagrecha](https://www.linkedin.com/in/sourabhbagrecha/)
 - Medium: [@sourabhbagrecha](https://medium.com/@sourabhbagrecha/)
+- Twitter: [@sourabhbagrecha](https://twitter.com/@sourabhbagrecha/)
