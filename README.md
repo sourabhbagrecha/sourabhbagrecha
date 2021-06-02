@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 🔭 I’m currently working on: Node.js, MongoDB, GraphQL
 
-🌱 I’m currently learning: Go lang
+🌱 I’m currently learning: TypeScript
 
 😄 Pronouns: He/Him/SoBa
 
