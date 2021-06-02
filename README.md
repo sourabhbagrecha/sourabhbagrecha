@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning: TypeScript
 
-😄 Pronouns: He/Him/SoBa
+😄 Pronouns: He/Him/His
 
 📫 How to reach me:
 - LinkedIn: [/in/sourabhbagrecha](https://www.linkedin.com/in/sourabhbagrecha/)
