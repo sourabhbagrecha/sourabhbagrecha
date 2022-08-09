@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him/His
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sourabhbagrecha)](https://github.com/ryo-ma/github-profile-trophy)
+
 📫 How to reach me:
 - LinkedIn: [/in/sourabhbagrecha](https://www.linkedin.com/in/sourabhbagrecha/)
 - Medium: [@sourabhbagrecha](https://medium.com/@sourabhbagrecha/)
